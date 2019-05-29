@@ -15,21 +15,21 @@ The University of Guelph R User Group (UGRU) is an informal meetup of your frien
  * accountability: setting at least one personal goal per meeting
 # Advantages
 * For everyone
- * “Pain is ready, Pain is waiting, Primed to do its educating” (DEPECHE MODE, "Dream On")
- * the challenges will improve your R skills
- * by participating you can determine the nature of the meetings
+  * “Pain is ready, Pain is waiting, Primed to do its educating” (DEPECHE MODE, "Dream On")
+  * the challenges will improve your R skills
+  * by participating you can determine the nature of the meetings
 * For grad students
- * a set time to ask questions
- * no need to waste weeks looking for an answer
- * learn from other participants’ coding/stats problems
+  * a set time to ask questions
+  * no need to waste weeks looking for an answer
+  * learn from other participants’ coding/stats problems
 * For faculty
- * block time each week for your own analyses
- * share your statistical knowledge/mad R skills
- * you finally have the opportunity to learn R
+  * block time each week for your own analyses
+  * share your statistical knowledge/mad R skills
+  * you finally have the opportunity to learn R
 
 ## For New Participants  
 * **Come to a Meeting:** See the announcements above on the next meeting time and place.
-* **Join the Google group:** This will make sure that you will get the announcements.
+* **[Join the Google group](https://groups.google.com/forum/#!forum/ugru):** This will make sure that you will get the announcements.
 * **Read the code of conduct:** this Study Group Program is for everyone - we abide by a [set of rules](https://www.mozillascience.org/code-of-conduct/) that require everyone be treated with respect. Help us make a space where everyone feels welcome, and we'll all have a better time!
 * **Watch this repo:** up in the top right, there's a button that says 'Watch'; click it, and set yourself to 'Watching'. This will send you email notifications of new discussions; if you don't want email, but would like an alert just on GitHub, change the setting in Settings -> Notification Center (Settings is the little cog in the top right).
 
