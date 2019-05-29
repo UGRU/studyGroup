@@ -1,3 +1,5 @@
+![Image of Gru with a lightbulb moment](http://despicableme.wikia.com/wiki/Felonius_Gru)
+
 # Wait, what is UGRU?
 The University of Guelph R User Group (UGRU) is an informal meetup of your friends and colleagues from around the University of Guelph who share skills, stories and ideas on using code for research, and explore open research practices. The goal is to create a friendly, no-pressure environment where people can share their work, ask for help on a coding problem, and learn and work together with their peers. **Anyone can participate -- you don't have to be an expert coder to do so!**
 
