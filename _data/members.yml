@@ -1,6 +1,23 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Karl Cottenie
+  affiliation: University of Guelph, Integrative Biology
+  github: karl-cottenie
   interests:
-    - Programming
-    - Open Science
+    - Programming in R
+    - Computational Ecology
+    - Bioinformatics
+    
+- name: Matthew Brachmann
+  affiliation: University of Guelph, Integrative Biology
+  github: PhDMattyB
+  interests:
+    - X
+    - Y
+    - Z
+
+- name: Simon Denomme-Brown
+  affiliation: University of Guelph, Integrative Biology
+  github: denown
+  interests:
+    - X
+    - Y
+    - Z
