@@ -14,18 +14,18 @@ The University of Guelph R User Group (UGRU) is an informal meetup of your frien
  * R working environment - reproducible research - code optimization
  * accountability: setting at least one personal goal per meeting
 # Advantages
- * For everyone
-  * “Pain is ready, Pain is waiting, Primed to do its educating” (DEPECHE MODE, "Dream On")
-  * the challenges will improve your R skills
-  * by participating you can determine the nature of the meetings
- * For grad students
-  * a set time to ask questions
-  * no need to waste weeks looking for an answer
-  * learn from other participants’ coding/stats problems
- * For faculty
-  * block time each week for your own analyses
-  * share your statistical knowledge/mad R skills
-  * you finally have the opportunity to learn R
+* For everyone
+ * “Pain is ready, Pain is waiting, Primed to do its educating” (DEPECHE MODE, "Dream On")
+ * the challenges will improve your R skills
+ * by participating you can determine the nature of the meetings
+* For grad students
+ * a set time to ask questions
+ * no need to waste weeks looking for an answer
+ * learn from other participants’ coding/stats problems
+* For faculty
+ * block time each week for your own analyses
+ * share your statistical knowledge/mad R skills
+ * you finally have the opportunity to learn R
 
 ## For New Participants  
 * **Come to a Meeting:** See the announcements above on the next meeting time and place.
