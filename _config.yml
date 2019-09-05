@@ -4,7 +4,7 @@
 #Step 1: give your study group a name and a short description,
 #and choose a language from the options in the _data directory:
 title: Coffee and coding with the R users group
-description: "UGRU, a study group."
+description: "A study group for R users at the University of Guelph."
 language: en
 
 #Step 2: press the green 'Commit Changes' button at the bottom of this page.
